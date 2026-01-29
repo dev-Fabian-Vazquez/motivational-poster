@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+}
+
+h1{
+    color:aliceblue;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+    font-family: libre, baskerville;
+}
+
+#poster{
+    margin-top: 10rem;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+p{
+    color:aliceblue;
+;
+}
+
+.imgpost{
+    border: 10px solid white;
+    width: 100%;
+}
